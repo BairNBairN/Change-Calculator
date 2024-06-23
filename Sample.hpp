@@ -1,6 +1,6 @@
 /**
  * @file Sample.hpp
- * @author  (avelstreet-0301@outlook.jp)
+ * @author  (103943569+BairNBairN@users.noreply.github.com)
  * @brief 釣銭計算
  * @version 0.1
  * @date 2024/06/23 16:06:79
